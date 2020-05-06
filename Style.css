@@ -1,0 +1,21 @@
+p.p_satu{
+  background-color:#cc5a07;
+  font-size: 10px;
+}
+
+p.p_dua{
+  background-color:#3100f5;
+  color: #ffffff;
+  font-size: 10px;
+}
+
+p.p_tiga{
+  font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif;
+  font-size: 16px;
+}
+
+p.p_empat{
+  background-color:#646465;
+  font-weight: bold;
+  font-size: 16px;
+}
